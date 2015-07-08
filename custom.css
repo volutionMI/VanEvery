@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {background-color: #fff;}
+
+.wrapper {
+	<max-width: 1200px;
+	margin: auto;
+}
+
+.nav > li {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: .8em;
+  height:45px;
+  float:none;}
+  
+.navbar-nav > li > a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  line-height: 1.1;}
+  
+.mission {
+	text-align: center;}
+	  
+.slider img {
+width: 100%;
+  height: 100%;}
+  
+  
+.nav > li > a {
+  position: relative;
+  display: block;
+  padding: 10px 22px;
+}
+
+.dranme {float:left; padding-right: 10px;}
